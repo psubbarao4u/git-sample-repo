@@ -1,5 +1,5 @@
 GIT Commands
-======= =====
+============
 
 git status
 git init
@@ -9,4 +9,4 @@ git add
 got commit -m ""
 git l0g
 git diff <filename>
-This is a test file used in the GIT
+This is a test file used in the GIT by subbu
