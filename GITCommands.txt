@@ -1,0 +1,11 @@
+GIT Commands
+============
+
+git status
+git init
+git config user.name "Subbarao Peddibhotla"
+git config user.email "psubbarao4u@gmail.com"
+git add
+got commit -m ""
+git l0g
+git diff <filename>
