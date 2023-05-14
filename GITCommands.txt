@@ -2,7 +2,7 @@ GIT Commands
 ============
 
 git status
-git init
+git init -> This initializes the Git repository
 git config user.name "Subbarao Peddibhotla"
 git config user.email "psubbarao4u@gmail.com"
 git add
