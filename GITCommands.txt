@@ -12,11 +12,10 @@ git diff <filename>
 This is a test file used in the GIT by subbu
 New Git file created
 
-
-
-
-
-
-
+==========================================================================================
+This is a new file from the private branch 1 and we need to merge the branches for learning
 
 We are in Private branch 2 and added few content in the existing file
+
+
+
