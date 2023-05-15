@@ -11,3 +11,12 @@ git l0g
 git diff <filename>
 This is a test file used in the GIT by subbu
 New Git file created
+
+
+
+
+
+
+
+
+We are in Private branch 2 and added few content in the existing file
